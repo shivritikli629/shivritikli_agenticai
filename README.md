@@ -4,4 +4,4 @@ USE IN FIRST ORDER LOGIC
 <br>
 my name is mangi
 <br>
-i am lives in dehli
+i am lives in pune
