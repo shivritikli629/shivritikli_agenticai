@@ -3,3 +3,5 @@ ONE OF THE BEST EXPERT SYSTEM IN ARTIFICIAL INTELLIGENCE MODEL
 USE IN FIRST ORDER LOGIC
 <br>
 my name is mangi
+<br>
+i am lives in dehli
